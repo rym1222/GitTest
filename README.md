@@ -1,2 +1,2 @@
 # GitTest
-just a test projiect
+some devlop tools
